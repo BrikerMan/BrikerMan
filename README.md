@@ -9,7 +9,7 @@
 A [Google Developers Expert @ Machine Learning](https://developers.google.com/community/experts) from China.
 
 - 🔭 Working on [Kashgari](https://github.com/BrikerMan/Kashgari)
-- 👯 Looking to collaborate on [Kashgari](https://github.com/BrikerMan/Kashgari)
+- 👯 Looking to collaborate on [Kashgari](https://github.com/BrikerMan/Kashgari), [BMPlayer](https://github.com/BrikerMan/BMPlayer)
 - 📝 Regulary write articles on [https://eliyar.biz](https://eliyar.biz)
 - 💬 Ask me about **TensorFlow2**
 
