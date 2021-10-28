@@ -8,6 +8,7 @@
 
 A [Google Developers Expert @ Machine Learning](https://developers.google.com/community/experts) from China.
 
+- 📖 Author of ML Intro-Level Book [《TensorFlow 2 实战》](https://item.jd.com/13320676.html)
 - 🔭 Working on [Kashgari](https://github.com/BrikerMan/Kashgari)
 - 👯 Looking to collaborate on [Kashgari](https://github.com/BrikerMan/Kashgari), [BMPlayer](https://github.com/BrikerMan/BMPlayer)
 - 📝 Regulary write articles on [https://eliyar.biz](https://eliyar.biz)
