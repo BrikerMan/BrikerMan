@@ -10,11 +10,11 @@
 - 💬 Ask me about **AI Agents, MCP, NLP, Python**
 
 **Projects:**  
-- [**IPverse**](https://ipverse.com)  
-- [**skilless.ai**](https://github.com/brikerman/skilless.ai) 
-- [**PrintMarkdown**](https://printmarkdown.com/)
-- [Kashgari](https://github.com/BrikerMan/Kashgari) (2.4k⭐) 
-- [BMPlayer](https://github.com/BrikerMan/BMPlayer) (2k⭐)
+- [**IPverse**](https://ipverse.com) — IP intelligence platform to help developers make data-driven IP licensing decisions for games  
+- [**skilless.ai**](https://github.com/brikerman/skilless.ai) — Zero-config AI skill library giving agents web search, video subtitle extraction, and media processing capabilities  
+- [**PrintMarkdown**](https://printmarkdown.com/) — Free online tool for printing Markdown files with rich formatting support including code highlighting, tables, and math formulas  
+- [Kashgari](https://github.com/BrikerMan/Kashgari) (2.4k⭐) — Production-level NLP framework for text labeling and classification with BERT/Word2Vec embeddings  
+- [BMPlayer](https://github.com/BrikerMan/BMPlayer) (2k⭐) — iOS video player based on AVPlayer with horizontal/vertical screen support and subtitle rendering 
 
 ---
 
