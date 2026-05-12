@@ -4,7 +4,7 @@
 
 - 🤖 Building AI Agents • Loves [Agno](https://github.com/agno-agi/agno) & [Langfuse](https://langfuse.com)
 - 🚀 Working on [**IPverse**](https://ipverse.com) - AI-powered IP licensing intelligence platform for gaming & [**skilless.ai**](https://skilless.ai) - Curated AI skill library, zero-config
-- 🏆 [Google Developer Expert](https://developers.google.com/community/experts) @ Machine Learning
+- 🏆 [Google Developer Expert](https://g.dev/eliyar) @ Machine Learning
 - 📖 Author of [《TensorFlow 2 实战》](https://item.jd.com/13320676.html)
 - 📝 Writing at [eliyar.biz](https://eliyar.biz)
 - 💬 Ask me about **AI Agents, MCP, NLP, Python**
